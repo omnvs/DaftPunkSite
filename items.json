@@ -1,0 +1,626 @@
+[
+    {
+      "Image": "",
+      "Publication/Photographer": "",
+      "Year": "",
+      "Type": "",
+      "Era": ""
+    },
+    {
+      "Image": "images/Live_1995/Live_1995.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1995,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1995/Live_2_1995.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1995,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1995/Live_3_1995.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1995,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1995/Live_4_1995.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1995,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1995/Live_5_1995.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1995,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Melody_Maker_Mag_1995/Melody_Maker_Mag_1995.jpeg",
+      "Publication/Photographer": "Melody Maker Magazine",
+      "Year": 1995,
+      "Type": "Editorial",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Melody_Maker_Mag_1995/Melody_Maker_Mag_2_1995.jpeg",
+      "Publication/Photographer": "Melody Maker Magazine",
+      "Year": 1995,
+      "Type": "Editorial",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_2_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_3_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_4_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_5_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1996/Live_6_1996.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1996,
+      "Type": "Live Performance",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/By_RIP_1996/By_RIP_1996.jpeg",
+      "Publication/Photographer": "By RIP",
+      "Year": 1996,
+      "Type": "Photo(s)",
+      "Era": "Pre-Homework"
+    },
+    {
+      "Image": "images/Live_1997/Live_1997.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1997,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Live_1997/Live_2_1997.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1997,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Live_1997/Live_3_1997.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1997,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Live_1997/Live_4_1997.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1997,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Spex_Mag_1997/Spex_Mag_1997.jpeg",
+      "Publication/Photographer": "Spex Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Spex_Mag_1997/Spex_Mag_2_1997.jpeg",
+      "Publication/Photographer": "Spex Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Muzik_Mag_1997/Muzik_Mag_1997.jpeg",
+      "Publication/Photographer": "Muzik Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/By_Kevin_Cummins_1997/By_Kevin_Cummins_1997.jpeg",
+      "Publication/Photographer": "By Kevin Cummins",
+      "Year": 1997,
+      "Type": "Photo(s)",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/By_Kevin_Cummins_1997/By_Kevin_Cummins_2_1997.jpeg",
+      "Publication/Photographer": "By Kevin Cummins",
+      "Year": 1997,
+      "Type": "Photo(s)",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/OOR_Mag_1997/OOR_Mag_1997.jpeg",
+      "Publication/Photographer": "OOR Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/OOR_Mag_1997/OOR_Mag_2_1997.jpeg",
+      "Publication/Photographer": "OOR Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Shangay_Express_1997/Shangay_Express_1997.jpeg",
+      "Publication/Photographer": "Shangay Express Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Shangay_Express_1997/Shangay_Express_2_1997.jpeg",
+      "Publication/Photographer": "Shangay Express Magazine",
+      "Year": 1997,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/By_RIP_1997/By_RIP_1997.jpeg",
+      "Publication/Photographer": "By RIP",
+      "Year": 1997,
+      "Type": "Photo(s)",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/By_RIP_1997/By_RIP_2_1997.jpeg",
+      "Publication/Photographer": "By RIP",
+      "Year": 1997,
+      "Type": "Photo(s)",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/By_RIP_1997/By_RIP_3_1997.jpeg",
+      "Publication/Photographer": "By RIP",
+      "Year": 1997,
+      "Type": "Photo(s)",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Live_1999/Live_1999.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1999,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Live_1999/Live_2_1999.jpeg",
+      "Publication/Photographer": "LIVE",
+      "Year": 1999,
+      "Type": "Live Performance",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/BUZZ_Mag_1999/BUZZ_Mag_1999.jpeg",
+      "Publication/Photographer": "BUZZ Magazine",
+      "Year": 1999,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/BUZZ_Mag_1999/BUZZ_Mag_2_1999.jpeg",
+      "Publication/Photographer": "BUZZ Magazine",
+      "Year": 1999,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/BUZZ_Mag_1999/BUZZ_Mag_3_1999.jpeg",
+      "Publication/Photographer": "BUZZ Magazine",
+      "Year": 1999,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/BUZZ_Mag_1999/BUZZ_Mag_4_1999.jpeg",
+      "Publication/Photographer": "BUZZ Magazine",
+      "Year": 1999,
+      "Type": "Editorial",
+      "Era": "Homework"
+    },
+    {
+      "Image": "images/Q_Mag_2001/Q_Mag_2001.jpeg",
+      "Publication/Photographer": "Q Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Q_Mag_2001/Q_Mag_2_2001.jpeg",
+      "Publication/Photographer": "Q Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/OOR_Mag_2001/OOR_Mag_2001.jpeg",
+      "Publication/Photographer": "OOR Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/OOR_Mag_2001/OOR_Mag_2_2001.jpeg",
+      "Publication/Photographer": "OOR Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2001/By_Perou_2001.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2001,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2001/By_Perou_2_2001.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2001,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2001/By_Perou_3_2001.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2001,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Switch_Mag_2001/Switch_Mag_2001.jpeg",
+      "Publication/Photographer": "Switch Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Switch_Mag_2001/Switch_Mag_2_2001.jpeg",
+      "Publication/Photographer": "Switch Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_2_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_3_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_4_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_5_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/The_Face_2001/The_Face_6_2001.jpeg",
+      "Publication/Photographer": "The Face Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Relax_Mag_2001/Relax_Mag_2001.jpeg",
+      "Publication/Photographer": "Relax Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Relax_Mag_2001/Relax_Mag_2_2001.jpeg",
+      "Publication/Photographer": "Relax Magazine",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Mixmag_2001/Mixmag_2001.jpeg",
+      "Publication/Photographer": "Mixmag",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Mixmag_2001/Mixmag_2_2001.jpeg",
+      "Publication/Photographer": "Mixmag",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Mixmag_2001/Mixmag_3_2001.jpeg",
+      "Publication/Photographer": "Mixmag",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Mixmag_2001/Mixmag_4_2001.jpeg",
+      "Publication/Photographer": "Mixmag",
+      "Year": 2001,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2002/By_Perou_2002.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2002,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2002/By_Perou_2_2002.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2002,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2002/By_Perou_3_2002.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2002,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/By_Perou_2002/By_Perou_4_2002.jpeg",
+      "Publication/Photographer": "By Perou",
+      "Year": 2002,
+      "Type": "Photo(s)",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Intersection_Mag_2002/Intersection_Mag_2002.jpeg",
+      "Publication/Photographer": "Intersection Magazine",
+      "Year": 2002,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Intersection_Mag_2002/Intersection_Mag_2_2002.jpeg",
+      "Publication/Photographer": "Intersection Magazine",
+      "Year": 2002,
+      "Type": "Editorial",
+      "Era": "Discovery"
+    },
+    {
+      "Image": "images/Robot_Rock_2005/Robot_Rock_2005.jpeg",
+      "Publication/Photographer": "Robot Rock MV",
+      "Year": 2005,
+      "Type": "Live Performance",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Robot_Rock_2005/Robot_Rock_2_2005.jpeg",
+      "Publication/Photographer": "Robot Rock MV",
+      "Year": 2005,
+      "Type": "Live Performance",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Robot_Rock_2005/Robot_Rock_3_2005.jpeg",
+      "Publication/Photographer": "Robot Rock MV",
+      "Year": 2005,
+      "Type": "Live Performance",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_2_ 2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_3_2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_4_2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_5_2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Eyescream_Mag_2006/Eyescream_Mag_6_2006.jpeg",
+      "Publication/Photographer": "Eyescream Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Rockin_On_Mag_2006/Rockin_On_Mag_2006.jpeg",
+      "Publication/Photographer": "Rockin' On Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Rockin_On_Mag_2006/Rockin_On_Mag_2_2006.jpeg",
+      "Publication/Photographer": "Rockin' On Magazine",
+      "Year": 2006,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/By_Nicolas_Richoffer_2007/By_Nicolas_Richoffer_2007.jpeg",
+      "Publication/Photographer": "By Nicolas Richoffer",
+      "Year": 2007,
+      "Type": "Photo(s)",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/By_Nicolas_Richoffer_2007/By_Nicolas_Richoffer_2_2007.jpeg",
+      "Publication/Photographer": "By Nicolas Richoffer",
+      "Year": 2007,
+      "Type": "Photo(s)",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_2_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_3_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_4_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_5_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/PAPER_Mag_2007/PAPER_Mag_6_2007.jpeg",
+      "Publication/Photographer": "PAPER Magazine",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/L_Uomo_Vogue_2007/L_Uomo_Vogue_2007.jpeg",
+      "Publication/Photographer": "L'Uomo Vogue",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/L_Uomo_Vogue_2007/L_Uomo_Vogue_2_2007.jpeg",
+      "Publication/Photographer": "L'Uomo Vogue",
+      "Year": 2007,
+      "Type": "Editorial",
+      "Era": "Human After All"
+    },
+    {
+      "Image": "images/Time_Mag_2013/Time_Mag_2013.jpeg",
+      "Publication/Photographer": "Time Magazine",
+      "Year": 2013,
+      "Type": "Editorial",
+      "Era": "Random Access Memories"
+    },
+    {
+      "Image": "images/Time_Mag_2013/Time_Mag_2_2013.jpeg",
+      "Publication/Photographer": "Time Magazine",
+      "Year": 2013,
+      "Type": "Editorial",
+      "Era": "Random Access Memories"
+    },
+    {
+      "Image": "images/Dazed_and_Confused_2013/Dazed_and_Confused_2013.jpeg",
+      "Publication/Photographer": "Dazed and Confused Magazine",
+      "Year": 2013,
+      "Type": "Editorial",
+      "Era": "Random Access Memories"
+    },
+    {
+      "Image": "images/Dazed_and_Confused_2013/Dazed_and_Confused_2_2013.jpeg",
+      "Publication/Photographer": "Dazed and Confused Magazine",
+      "Year": 2013,
+      "Type": "Editorial",
+      "Era": "Random Access Memories"
+    }
+  ]
+  

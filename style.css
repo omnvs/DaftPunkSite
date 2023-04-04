@@ -1,0 +1,157 @@
+/* –––––––––––––––––––––––––––––––––––––– GENERAL –––––––––––––––––––––––––––––––––––––– */
+
+a {
+    text-decoration: none;
+
+}
+
+.module {
+    cursor: url('Images/star_solid_copy.png'), auto;
+  }
+
+
+/* –––––––––––––––––––––––––––––––––––––– MAIN PAGE –––––––––––––––––––––––––––––––––––––– */
+
+.MainHeader {
+    font-size: 15vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: white;
+    position: absolute;
+    padding-top: 0%;
+    margin-top: -1%;
+
+}
+
+#MainpageBackground {
+    background-color: #000000;
+
+}
+
+/* .MainHeaderInvert {
+    font-size: 15vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: white;
+    background-color: #000000;
+    position: absolute;
+    padding-top: 0%;
+    margin-top: -1%;
+
+} */
+
+/* –––––––––––––––––––––––––––––––––––––– ABOUT –––––––––––––––––––––––––––––––––––––– */
+
+.AboutBody {
+    font-size: 2vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+    width: 42%;
+    text-decoration: none;
+
+}
+
+.Navigation {
+    font-size: 2vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: black;
+    text-decoration: underline;
+
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* –––––––––––––––––––––––––––––––––––––– PAGE TWO (2) –––––––––––––––––––––––––––––––––––––– */
+
+.Title {
+    font-size: 2vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: #000000;
+
+}
+
+.Navigation {
+    font-size: 2vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: normal;
+    color: black;
+    text-decoration: underline;
+
+}
+
+.space-between {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 2.5%;
+  }
+  
+  /* Create two equal columns that sits next to each other */
+  .column {
+    flex: 0%;
+    padding: 0px;
+    margin: 0px;
+  }
+
+  img:hover {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .column img {
+    margin-top: 25px;
+    vertical-align: middle;
+    padding-bottom: 0%;
+  }
+
+  img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+  }
+
+  #example {
+    width: 100%;
+    height: 100%
+  }
+
+  #left {
+    float:left;
+    width: 30%;
+    position: fixed;
+    top: 20%;
+  }
+
+  #right {
+    float:right;
+    width: 70%;
+    overflow: scroll;
+    height: 20%;
+  }
+
+  .Info {
+    font-size: 2.5vw;
+    font-family: 'Helvetica', Arial, sans-serif;
+    font-style: thin;
+    color: #000000;
+    position: absolute;
+    top: 120px;
+  }
+
+
+
+
+  /* –––––––––––––––––––––––––––––––––––––– INDIVIDUAL PAGES –––––––––––––––––––––––––––––––––––––– */
+ 
+
